@@ -6,4 +6,4 @@
 -GIT 수업
 
 3주차
-- GITHUB
+- GITHUB, push, pull
